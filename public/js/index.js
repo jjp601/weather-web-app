@@ -1,5 +1,3 @@
-console.log('Client side javascript os loaded!');
-
 const form = document.querySelector('form');
 const search = document.querySelector('input')
 const message1 = document.querySelector('#message-1')
